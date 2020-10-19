@@ -1,7 +1,7 @@
 # Shipwrecker
 
 Shipwrecker ist ein "First-Person" Detektiv spiel was Elemente von "Among Us","TTT" und eigenen Elementen verbindet.
-Das Spiel wird mit der Unreal Engine in verbindung mit C++ und Ureal Blueprints entwickelt um gute Grafik und Performance zu erziehlen.
+Das Spiel wird mit der Unreal Engine in verbindung mit C++ und Unreal Blueprints entwickelt um gute Grafik und Performance zu erziehlen.
 
 Spielprinzip:
 
