@@ -6,24 +6,24 @@ Das Spiel wird mit der Unreal Engine in verbindung mit C++ und Unreal Blueprints
 Spielprinzip:
 
 Du bist teil einer Crew auf einem Raumschiff welches im Weltall gestrandet ist.
-Die Worker müssen mini-Spiele und Kleine Rätsel bewältigen um das Schiff zu Reparieren,
-allerdings gibt es (je nach spielerzahl) einen oder mehrere Shipwrecker die das Schiff durch mini-Spiele und Kleine Rätsel sabotieren können und auch Worker töten können.
-Die aufgabe des Captains ist es die Schipwrecker durch Schlaue beobachtung und befragungen in "Meetings" ausfindigzu machen.
+Die "Worker" müssen Mini-Spiele und kleine Rätsel bewältigen um das Schiff zu Reparieren.
+Allerdings gibt es (je nach Spielerzahl) einen oder mehrere "Shipwrecker" die das Schiff durch mini-Spiele und Kleine Rätsel sabotieren, und Worker töten können.
+Die aufgabe des "Captains" ist es, die "Shipwrecker" durch schlaue Beobachtungen und Befragungen in "Meetings" ausfindigzumachen.
 
-In jedem meeting gibt es die Möglichkeit jemanden zu wählen, dieser wird bei der mehrheit der Stimmen aus dem Spiel entfernt.
+In jedem "Meeting" gibt es die Möglichkeit jemanden zu wählen, welcher bei Mehrheit der Stimmen aus dem Spiel entfernt wird.
 
-Die Worker und der Captain Gewinnen wenn alle Shipwrecker entllarvt werden.
-Der Shipwrecker Gewinnt wenn das Shiff zerstört wurde oder alle Worker tot sind.
+Die Worker und der Captain Gewinnen wenn alle "Shipwrecker" entlarvt werden.
+Der/die "Shipwrecker" gewinnt/gewinnen, wenn das Schiff zerstört wurde, oder alle Worker tot sind.
 
 
-  Es gibt 3 Rollen die am anfang des Spiels zufällig ausgewählt werden
+Es gibt 3 Rollen welche an Anfang des Spiels zufällig ausgewählt werden:
+
+  Captain: In jedem Spiel gibt es einen Captain, welcher jederzeit ein Meeting starten kann.
+           Die Aufgabe des Captains ist es, die Worker zu beobachten, und die Shipwrecker zu entlarven.
  
- Captain: Es gibt in jedem spiel einen Captain kann jederzeit ein Meeting Starten.
-          seine aufgabe is es die Worker zu beobachten und die Shipwrecker zu entlarven.
- 
- Worker:  Die Worker sind die Standart Rolle, sie müssen aufgaben erfüllen und versuchen nicht Getötet zu werden,
-          Worker können nur im meeting raum jeweils ein meeting starten oder wenn sie eine Leiche entdecken.
+  Worker:  Der Worker ist die standard Rolle. Worker müssen Aufgaben erfüllen und versuchen nicht getötet zu werden.
+           Die Worker können nur in einem "Meeting-Raum" jeweils ein Meeting starten, oder wenn sie eine Leiche entdecken.
           
- Shipwrecker: Die aufgabe des Shipwreckers ist es das Shiff zu Sabotieren und/oder alle Worker zu Töten.
+  Shipwrecker: Die Aufgabe des Shipwreckers ist es das Shiff zu sabotieren und/oder alle Worker zu töten.
           
  
